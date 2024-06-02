@@ -1,5 +1,5 @@
 import './App.css'
-import BackgroundColorChange from './Components/BackgroundColorChange'
+import BackgroundColorChange from './Projects/BackgroundChange/BackgroundColorChange'
 
 
 function App() {
